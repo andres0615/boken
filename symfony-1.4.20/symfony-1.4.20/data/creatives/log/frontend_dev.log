@@ -1,0 +1,57 @@
+Oct 18 00:43:06 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /usuario with parameters array (  'module' => 'usuario',  'action' => 'index',)
+Oct 18 00:43:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 18 00:43:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 18 00:43:06 symfony [info] {usuarioActions} Call "usuarioActions->executeIndex()"
+Oct 18 00:43:07 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Oct 18 00:43:07 symfony [info] {Doctrine_Connection_Mysql} query : SELECT u.id AS u__id, u.usuario_codigo AS u__usuario_codigo, u.usuario_nombre AS u__usuario_nombre, u.usuario_apellido AS u__usuario_apellido, u.foto AS u__foto, u.fechanacimiento AS u__fechanacimiento, u.genero AS u__genero FROM usuario u - ()
+Oct 18 00:43:07 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/modules/usuario/templates/indexSuccess.php"
+Oct 18 00:52:36 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /usuario with parameters array (  'module' => 'usuario',  'action' => 'index',)
+Oct 18 00:52:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 18 00:52:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 18 00:52:36 symfony [info] {usuarioActions} Call "usuarioActions->executeIndex()"
+Oct 18 00:52:37 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Oct 18 00:52:37 symfony [info] {Doctrine_Connection_Mysql} query : SELECT u.id AS u__id, u.usuario_codigo AS u__usuario_codigo, u.usuario_nombre AS u__usuario_nombre, u.usuario_apellido AS u__usuario_apellido, u.foto AS u__foto, u.fechanacimiento AS u__fechanacimiento, u.genero AS u__genero FROM usuario u - ()
+Oct 18 00:52:37 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/modules/usuario/templates/indexSuccess.php"
+Oct 18 00:52:37 symfony [info] {sfPHPView} Decorate content with "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php"
+Oct 18 00:52:37 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php"
+Oct 18 00:52:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 18 00:52:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 18 00:52:37 symfony [info] {sfWebResponse} Send content (1195 o)
+Oct 18 00:52:42 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /usuario/new with parameters array (  'module' => 'usuario',  'action' => 'new',)
+Oct 18 00:52:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 18 00:52:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 18 00:52:42 symfony [info] {usuarioActions} Call "usuarioActions->executeNew()"
+Oct 18 00:52:42 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/modules/usuario/templates/newSuccess.php"
+Oct 18 00:52:42 symfony [info] {sfPartialView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/modules/usuario/templates/_form.php"
+Oct 18 00:52:42 symfony [info] {sfPHPView} Decorate content with "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php"
+Oct 18 00:52:42 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php"
+Oct 18 00:52:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 18 00:52:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 18 00:52:42 symfony [info] {sfWebResponse} Send content (4202 o)
+Oct 18 00:53:10 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /usuario with parameters array (  'module' => 'usuario',  'action' => 'index',)
+Oct 18 00:53:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 18 00:53:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 18 00:53:11 symfony [info] {usuarioActions} Call "usuarioActions->executeIndex()"
+Oct 18 00:53:11 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Oct 18 00:53:11 symfony [info] {Doctrine_Connection_Mysql} query : SELECT u.id AS u__id, u.usuario_codigo AS u__usuario_codigo, u.usuario_nombre AS u__usuario_nombre, u.usuario_apellido AS u__usuario_apellido, u.foto AS u__foto, u.fechanacimiento AS u__fechanacimiento, u.genero AS u__genero FROM usuario u - ()
+Oct 18 00:53:11 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/modules/usuario/templates/indexSuccess.php"
+Oct 18 00:53:11 symfony [info] {sfPHPView} Decorate content with "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php"
+Oct 18 00:53:11 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php"
+Oct 18 00:53:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 18 00:53:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 18 00:53:11 symfony [info] {sfWebResponse} Send content (1195 o)
+Oct 18 01:04:42 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /usuario with parameters array (  'module' => 'usuario',  'action' => 'index',)
+Oct 18 01:04:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 18 01:04:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 18 01:04:42 symfony [info] {usuarioActions} Call "usuarioActions->executeIndex()"
+Oct 18 01:04:42 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Oct 18 01:04:42 symfony [info] {Doctrine_Connection_Mysql} query : SELECT u.id AS u__id, u.usuario_codigo AS u__usuario_codigo, u.usuario_nombre AS u__usuario_nombre, u.usuario_apellido AS u__usuario_apellido, u.foto AS u__foto, u.fechanacimiento AS u__fechanacimiento, u.genero AS u__genero FROM usuario u - ()
+Oct 18 01:04:42 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/modules/usuario/templates/indexSuccess.php"
+Oct 18 01:04:42 symfony [info] {sfPHPView} Decorate content with "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php"
+Oct 18 01:04:42 symfony [info] {sfPHPView} Render "/var/www/html/boken/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php"
+Oct 18 01:04:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 18 01:04:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 18 01:04:42 symfony [info] {sfWebResponse} Send content (1243 o)
+Oct 18 01:04:42 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/css/main.css" (/).
+Oct 18 01:04:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Oct 18 01:04:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"

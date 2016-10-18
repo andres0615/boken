@@ -3,6 +3,47 @@
   <component name="ChangeListManager">
     <list default="true" id="2d1d4250-1f11-4d00-aa60-00af35423e75" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_autoload.yml.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/app.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/app.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/cache.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/cache.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/factories.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/factories.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/filters.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/filters.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/frontendConfiguration.class.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/frontendConfiguration.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/routing.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/security.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/security.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/settings.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/settings.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/view.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/view.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/lib/myUser.class.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/lib/myUser.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_app.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_app.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_config_handlers.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_config_handlers.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_databases.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_databases.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_settings.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_settings.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_app.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_app.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_config_handlers.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_config_handlers.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_core_compile.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_core_compile.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_databases.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_databases.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_factories.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_factories.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_routing.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_routing.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_settings.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/config_settings.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/modules_default_config_filters.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/modules_default_config_filters.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/modules_default_config_module.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/modules_default_config_module.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/modules_default_config_security.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/modules_default_config_security.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/modules_default_config_view.yml.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/prod/config/modules_default_config_view.yml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/ProjectConfiguration.class.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/ProjectConfiguration.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/databases.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/databases.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/doctrine/schema.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/doctrine/schema.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/properties.ini" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/properties.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/rsync_exclude.txt" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/rsync_exclude.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/data/fixtures/fixtures.yml" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/data/fixtures/fixtures.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/lib/form/BaseForm.class.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/lib/form/BaseForm.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/test/bootstrap/functional.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/test/bootstrap/functional.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/test/bootstrap/unit.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/test/bootstrap/unit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/.htaccess" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/css/main.css" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/frontend_dev.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/frontend_dev.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/index.php" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/robots.txt" afterPath="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/robots.txt" />
     </list>
     <ignored path="boken.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +64,28 @@
     <favorites_list name="boken" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="layout.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23491028">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +94,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/data/fixtures/usuario.yml" />
+        <option value="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/settings.yml" />
+        <option value="$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php" />
       </list>
     </option>
   </component>
@@ -81,6 +146,150 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="creatives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="creatives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boken" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony-1.4.20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="creatives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -102,7 +311,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -132,10 +341,178 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/properties.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.030821918">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/databases.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/ProjectConfiguration.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/data/fixtures/fixtures.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/config/rsync_exclude.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/filters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/bin/changelog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.43882546">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/bin/check_configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9380097">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/bin/create_sandbox.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/bin/release.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/bin/symfony.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.32569557">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/bin/symfony">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/frontend_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/cache/frontend/dev/config/config_settings.yml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/app.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/frontendConfiguration.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/config/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.309375">
+          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/data/fixtures/usuario.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.084375">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfony-1.4.20/symfony-1.4.20/data/creatives/apps/frontend/templates/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23491028">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>

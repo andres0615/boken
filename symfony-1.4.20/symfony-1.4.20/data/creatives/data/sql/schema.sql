@@ -1,0 +1,1 @@
+CREATE TABLE usuario (id BIGINT AUTO_INCREMENT, usuario_codigo VARCHAR(255), usuario_nombre VARCHAR(255), usuario_apellido VARCHAR(255), foto VARCHAR(255), fechanacimiento DATE, genero TINYINT, PRIMARY KEY(id)) ENGINE = INNODB;
